@@ -1,3 +1,4 @@
+package com.mycompany.holamundo2;
 /**
  *
  * @author camilo
